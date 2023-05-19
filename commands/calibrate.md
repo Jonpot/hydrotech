@@ -23,7 +23,7 @@ Valid arguments are:
 
 _pH, DO, EC, and Temperature sensors are presumed to be calibrated within the code and are not available for manual calibration at this time._&#x20;
 
-Once you've sent the command with the specified sensor, you will be prompted to place the ISE in the high-point (1000 ppm) solution and then type "ready". Sending anything else will cancel the calibration. After calibrating the high point, you will be prompted to place the iSE in the low-point (10 ppm) solution and then type "ready". Sending anything else will cancel the calibration, but the high-point will have already been set.
+Once you've sent the command with the specified sensor, you will be prompted to place the ISE in the high-point (1000 ppm) solution and then type "ready". Sending anything else will cancel the calibration. After calibrating the high point, you will be prompted to place the ISE in the low-point (10 ppm) solution and then type "ready". Sending anything else will cancel the calibration, but the high-point will have already been set.
 
 
 

@@ -4,9 +4,13 @@ description: How to use the motors command.
 
 # motors
 
-STOP!
+```
+> #### warning::STOP!
+>
+> Before proceeding, ensure that the system is in calibration mode and that the motors will not run. This is done by pressing CTRL+C on the Python interpreter. The screen will let you know that the system is in calibration mode and the motors will not run until you exit.
+```
 
-Before proceeding, ensure that the system is in calibration mode and that the motors will not run. This is done by pressing CTRL+C on the Python interpreter. The screen will let you know that the system is in calibration mode and the motors will not run until you exit.
+
 
 
 

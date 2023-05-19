@@ -7,7 +7,7 @@ description: How to use the calibrate command.
 {% hint style="info" %}
 ## STOP!
 
-Before proceeding, ensure that the system is in calibration mode and that the motors will not run. This is done by pressing CTRL+C on the Python interpreter. The screen will let you know that the system is in calibration mode and the motors will not run until you exit.
+Before proceeding, ensure that the system is in calibration mode and that the motors will not run automatically. This is done by pressing CTRL+C on the Python interpreter. The screen will let you know that the system is in calibration mode and the motors will not run automatically until you exit.
 {% endhint %}
 
 Once in calibration mode, go to the serial monitor to use the command line.

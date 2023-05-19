@@ -6,3 +6,6 @@
 ## Commands
 
 * [calibrate](commands/calibrate.md)
+* [status](commands/status.md)
+* [motors](commands/motors.md)
+* [set](commands/set.md)
